@@ -1,4 +1,4 @@
-# Nerfies
+# SEED: Towards More Accurate Semantic Evaluation for Visual Brain Decoding. 
 
 This is the repository for the project page of the paper SEED: Towards More Accurate Semantic Evaluation for Visual Brain Decoding. 
 The source code was borrowed from [Nerfies website](https://nerfies.github.io).
